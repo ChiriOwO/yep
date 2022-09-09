@@ -1,0 +1,9 @@
+H:\PVA_IT3\SpravaPC\SpravaPC\bin\Debug\SpravaPC.exe.config
+H:\PVA_IT3\SpravaPC\SpravaPC\bin\Debug\SpravaPC.exe
+H:\PVA_IT3\SpravaPC\SpravaPC\bin\Debug\SpravaPC.pdb
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.csprojResolveAssemblyReference.cache
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.Form1.resources
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.Properties.Resources.resources
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.csproj.GenerateResource.Cache
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.exe
+H:\PVA_IT3\SpravaPC\SpravaPC\obj\Debug\SpravaPC.pdb
